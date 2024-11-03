@@ -11,3 +11,5 @@ You can observe examples of solving problems such as:
 * Clustering
   
 * NLP
+
+* Other problems
